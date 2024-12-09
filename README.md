@@ -17,7 +17,7 @@ A comprehensive web-based application for managing library resources efficiently
 - **Book Management:** Add, update, view, and delete book records.
 - **User Authentication:** Secure login and registration with role-based access control (admin and users).
 - **Input Validation:** Ensures the accuracy and integrity of user inputs.
-- **Secure Backend:** Token-based authentication and secure password hashing.
+- **Secure Backend:** Secure password hashing.
 
 ## Technologies Used
 ### Frontend
