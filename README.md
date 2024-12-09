@@ -1,4 +1,4 @@
-echo "# Library Management System
+# Library Management System
 
 A comprehensive web-based application for managing library resources efficiently. This system simplifies the administration of book records, user accounts, and library operations through a user-friendly interface and robust backend architecture.
 
@@ -17,7 +17,6 @@ A comprehensive web-based application for managing library resources efficiently
 - **Book Management:** Add, update, view, and delete book records.
 - **User Authentication:** Secure login and registration with role-based access control (admin and users).
 - **Input Validation:** Ensures the accuracy and integrity of user inputs.
-- **Responsive Design:** Seamless user experience across desktop and mobile devices.
 - **Secure Backend:** Token-based authentication and secure password hashing.
 
 ## Technologies Used
@@ -27,7 +26,7 @@ A comprehensive web-based application for managing library resources efficiently
 
 ### Backend
 - ASP.NET for API development
-- SQL Server for database management
+- SQLite for database management
 
 ### Tools
 - Postman for API testing
@@ -87,7 +86,7 @@ The application follows a three-layered architecture:
 1. **Admin Access:**
    - Log in with admin credentials to manage all book records and user roles.
 2. **User Access:**
-   - Register as a user to view and search for available books.
+   - Register as a user to view, search for available books & manage all book records .
 
 ## Contributing
 Contributions are welcome! Follow these steps:
@@ -109,6 +108,4 @@ Contributions are welcome! Follow these steps:
 
 5. Create a Pull Request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 " > README.md
