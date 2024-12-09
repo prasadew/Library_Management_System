@@ -11,7 +11,7 @@ A comprehensive web-based application for managing library resources efficiently
 - [System Architecture](#system-architecture)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - **Book Management:** Add, update, view, and delete book records.
